@@ -1,0 +1,24 @@
+{
+  "name": "ethers-scripts",
+  "version": "1.0.0",
+  "description": "javascript scripts that interacts with ethereum",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gydox/ethers-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gydox/ethers-scripts/issues"
+  },
+  "homepage": "https://github.com/gydox/ethers-scripts#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  }
+}
